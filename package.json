@@ -1,0 +1,28 @@
+{
+  "name": "primefactors",
+  "version": "0.0.0",
+  "description": "find prime factors of a number",
+  "main": "index.js",
+  "dependencies": {
+    "isprime": "^0.0.2",
+    "primes": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TJkrusinski/primefactors.git"
+  },
+  "keywords": [
+    "prime",
+    "factors"
+  ],
+  "author": "TJ Krusinski <tjkrus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJkrusinski/primefactors/issues"
+  },
+  "homepage": "https://github.com/TJkrusinski/primefactors"
+}
