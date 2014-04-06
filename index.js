@@ -4,8 +4,8 @@ var primes = require('primes');
 var isprime = require('isprime');
 
 /**
- *	Get the prime factors of a number
- *	@param {Number} num
+ *  Get the prime factors of a number
+ *  @param {Number} num
  */
 
 module.exports = function(num) {
