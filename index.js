@@ -8,7 +8,7 @@ var isprime = require('isprime');
  *	@param {Number} num
  */
 
-module.exports = function(num, shrink) {
+module.exports = function(num) {
   if (!num || num === 1) return [];
   // protect the recursion
   return factor(num);
