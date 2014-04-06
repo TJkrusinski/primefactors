@@ -1,15 +1,15 @@
-## primefactor
+## primefactors
 
 Get the prime factorization of a number
 
 ```
-$ npm install primefactor
+$ npm install primefactors
 ```
 
 ## Usage
 
 ```
-var pf = require('primefactor');
+var pf = require('primefactors');
 
 pf(9);
 // => [3, 3];
